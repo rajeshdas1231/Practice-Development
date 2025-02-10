@@ -2,7 +2,14 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-size: 62.5%;
 }
+
+/* 1rem=16px  (font-soze:100%) */
+/* 1rem=10px  (font-soze:62.5%) */
+/* width=19px (font-size:1.9rem) */
+
+
 body {
   height: 100%;
   width: 100%;
